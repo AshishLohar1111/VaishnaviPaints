@@ -1,2 +1,2 @@
-# VaishnaviPaints
-Web Ise project 
+# vaishnavi_paints
+Web Dev project
